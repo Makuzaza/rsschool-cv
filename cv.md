@@ -1,10 +1,10 @@
 # Maria Kuznetsova
 
-## Junior Frontend Developer
+### Junior Frontend Developer
 
 ---
 
-## Contact information:
+### Contact information:
 - **Location:** Finland, Helsinki
 - **Email:** makuza.mk@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/maria-kuznetcova/
@@ -12,13 +12,13 @@
 
 ---
 
-## Summary
+### Summary
 
 Experienced software developer with a strong background in ICT and a Bachelor's degree. Proficient in JavaScript, React, Typescript, Node.js, C, and software development, with a focus on problem-solving and efficient coding. Seeking junior roles in a dynamic environment to continue growing my skills and contributing to meaningful projects.
 
 ---
 
-## Skills
+### Skills
 
 - **Programming Languages:** JavaScript, TypeScript, C
 - **Frontend Development:** JavaScript, React, TypeScript, CSS, Material UI, Bootstrap
@@ -34,11 +34,10 @@ Experienced software developer with a strong background in ICT and a Bachelor's 
 
 ---
 
-
-
 ### Code Example:
 
 **Task: Display Command-Line Arguments**
+
 Write a program that takes multiple arguments from the command line and displays each argument on a new line. The program should:
 - Print each argument in the same order as provided on the command line.
 - Exclude `argv[0]` (the program name) from the output.
@@ -76,7 +75,7 @@ int main(int argc, char **argv)
 
 ---
 
-## Experience
+### Experience
 
 ### Junior Full Stack Developer - Intern
 **i4ware Software** | Finland | 06.2024 - 08.2024
