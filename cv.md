@@ -1,8 +1,10 @@
 # Maria Kuznetsova
 
-Junior Frontend Developer
+## Junior Frontend Developer
 
-Contact information:
+---
+
+## Contact information:
 - **Location:** Finland, Helsinki
 - **Email:** makuza.mk@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/maria-kuznetcova/
@@ -114,8 +116,13 @@ int main(int argc, char **argv)
 
 ## Courses
 
-- **IELTS** – [Issuing Organization, Year]
-- **Another Certification** – [Issuing Organization, Year]
+- **Python development for beginners** – Netology, 2022
+- **Introduction to Amazon Elastic Compute Cloud (EC2)** – AWS, 2024
+- **Introduction to AWS CodeCommit** – AWS, 2024
+- **Getting Started with DevOps on AWS** – AWS, 2024
+- **AWS Technical Essentials** – AWS, 2024
+- **AWS Identity and Access Management - Architecture and Terminology** – AWS, 2024
+- **IELTS Academic** - British Council, 2022
 
 ---
 
