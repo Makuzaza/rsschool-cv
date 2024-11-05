@@ -101,7 +101,7 @@ int main(int argc, char **argv)
 
 ---
 
-## Education
+### Education
 
 ### Bachelor's Degree in ICT
 **Business College Helsinki** | Finland | 2023-2024
@@ -113,7 +113,7 @@ int main(int argc, char **argv)
 
 ---
 
-## Courses
+### Courses
 
 - **Python development for beginners** – Netology, 2022
 - **Introduction to Amazon Elastic Compute Cloud (EC2)** – AWS, 2024
@@ -125,7 +125,7 @@ int main(int argc, char **argv)
 
 ---
 
-## Additional Information
+### Additional Information
 
 - **Languages:** English, Finnish, Russian
 - **Interests:** Web development, open-source projects, continuous learning in emerging technologies
