@@ -412,3 +412,10 @@ html {
     height: 100px;
   }
 }
+
+
+@media (max-width: 400px) {
+  header {
+    height: 150px;
+  }
+}
