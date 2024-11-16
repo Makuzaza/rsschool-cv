@@ -384,7 +384,7 @@ html {
       padding-bottom: 28px;
     }
     .projects_image {
-      width: 350px;
+      width: 300px;
       height: 200px;
     }
     .footer {
@@ -404,7 +404,6 @@ html {
     justify-content: center;
     margin: 0;
   }
-
 }
 
 @media (max-width: 800px) {
@@ -412,7 +411,6 @@ html {
     height: 100px;
   }
 }
-
 
 @media (max-width: 400px) {
   header {
