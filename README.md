@@ -1,3 +1,2 @@
 https://makuzaza.github.io/rsschool-cv/cv
-
-https://makuzaza.github.io/rsschool
+https://makuzaza.github.io/rsschool-cv/
