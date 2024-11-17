@@ -9,7 +9,7 @@ html {
     line-height: 30px;
     font-weight: 400;
     color: black;
-    background-color: rgb(228, 229, 228);
+    background-color: #fcfcfa;
     border-color: #3a3a3a;
     border-width: 1px;
     border-style: solid;
@@ -43,7 +43,7 @@ html {
     top: 0;
     width: 20px;
     height: 36px;
-    background-color: #f2c100;
+    background-color: #f0810f;
   }
   
   /* Smoothness */
@@ -58,7 +58,7 @@ html {
   header {
     width: 100%;
     height: 50px;
-    background-color: #343945;
+    background-color: #011a27;
   }
   .nav_list {
     display: flex;
@@ -75,7 +75,7 @@ html {
     text-decoration: none;
   }
   .nav a:hover {
-    background-color: #f2c100;
+    background-color: #e6df44;
     color: black;
   }
   .nav a:active {
@@ -87,14 +87,14 @@ html {
   .left-side {
     width: 100%;
     color: white;
-    background-color: #2c323d;
+    background-color: #063852;
   }
   .figure-left-side {
     margin: 0;
     padding: 0;
     width: 100%;
     height: min-content;
-    background-color: #343945;
+    background-color: #063852;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -232,8 +232,8 @@ html {
     margin: 20px 0 20px 0;
   }
   .projects_image {
-    width: 200px;      /* Set width to a fixed size */
-    height: 130px;     /* Set height to the same fixed size */
+    width: 200px;
+    height: 130px;
     object-fit: cover;
     box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1);
   }
@@ -269,7 +269,7 @@ html {
   }
   .projects_item:hover .projects_title:after {
     width: 100%;
-    background-color: #f2c100;
+    background-color: #f0810f;
   }
   .projects_item:active .projects_image {
     box-shadow: 0px 0px 7px 7px rgba(0, 0, 0, 0.2);
@@ -293,7 +293,7 @@ html {
     align-items: center;
     padding: 20px 60px 20px 60px;
     color: white;
-    background-color: #1e232c;
+    background-color: #011a27;
   }
   .footer_github {
     justify-self: start;
@@ -357,14 +357,14 @@ html {
       width: 100%;
       padding: 35px 0;
       padding-top: 50px;
-      background-color: #2c323d;
+      background-color: #063852;
     }
     #education {
       order: 0;
       width: 100%;
       padding: 35px 0;
       padding-top: 50px;
-      background-color: #343945;
+      background-color: #063852;
     }
     .right-side {
       order: 1;
